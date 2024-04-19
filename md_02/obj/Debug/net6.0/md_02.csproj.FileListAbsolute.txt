@@ -1,0 +1,15 @@
+/Users/maxhotiuk/Desktop/md/md_02/bin/Debug/net6.0/md_02
+/Users/maxhotiuk/Desktop/md/md_02/bin/Debug/net6.0/md_02.deps.json
+/Users/maxhotiuk/Desktop/md/md_02/bin/Debug/net6.0/md_02.runtimeconfig.json
+/Users/maxhotiuk/Desktop/md/md_02/bin/Debug/net6.0/md_02.dll
+/Users/maxhotiuk/Desktop/md/md_02/bin/Debug/net6.0/md_02.pdb
+/Users/maxhotiuk/Desktop/md/md_02/obj/Debug/net6.0/md_02.csproj.AssemblyReference.cache
+/Users/maxhotiuk/Desktop/md/md_02/obj/Debug/net6.0/md_02.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maxhotiuk/Desktop/md/md_02/obj/Debug/net6.0/md_02.AssemblyInfoInputs.cache
+/Users/maxhotiuk/Desktop/md/md_02/obj/Debug/net6.0/md_02.AssemblyInfo.cs
+/Users/maxhotiuk/Desktop/md/md_02/obj/Debug/net6.0/md_02.csproj.CoreCompileInputs.cache
+/Users/maxhotiuk/Desktop/md/md_02/obj/Debug/net6.0/md_02.dll
+/Users/maxhotiuk/Desktop/md/md_02/obj/Debug/net6.0/refint/md_02.dll
+/Users/maxhotiuk/Desktop/md/md_02/obj/Debug/net6.0/md_02.pdb
+/Users/maxhotiuk/Desktop/md/md_02/obj/Debug/net6.0/md_02.genruntimeconfig.cache
+/Users/maxhotiuk/Desktop/md/md_02/obj/Debug/net6.0/ref/md_02.dll
