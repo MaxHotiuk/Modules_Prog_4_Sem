@@ -1,0 +1,14 @@
+/Users/maxhotiuk/Desktop/module_3/md_03/bin/Debug/net8.0/md_03
+/Users/maxhotiuk/Desktop/module_3/md_03/bin/Debug/net8.0/md_03.deps.json
+/Users/maxhotiuk/Desktop/module_3/md_03/bin/Debug/net8.0/md_03.runtimeconfig.json
+/Users/maxhotiuk/Desktop/module_3/md_03/bin/Debug/net8.0/md_03.dll
+/Users/maxhotiuk/Desktop/module_3/md_03/bin/Debug/net8.0/md_03.pdb
+/Users/maxhotiuk/Desktop/module_3/md_03/obj/Debug/net8.0/md_03.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maxhotiuk/Desktop/module_3/md_03/obj/Debug/net8.0/md_03.AssemblyInfoInputs.cache
+/Users/maxhotiuk/Desktop/module_3/md_03/obj/Debug/net8.0/md_03.AssemblyInfo.cs
+/Users/maxhotiuk/Desktop/module_3/md_03/obj/Debug/net8.0/md_03.csproj.CoreCompileInputs.cache
+/Users/maxhotiuk/Desktop/module_3/md_03/obj/Debug/net8.0/md_03.dll
+/Users/maxhotiuk/Desktop/module_3/md_03/obj/Debug/net8.0/refint/md_03.dll
+/Users/maxhotiuk/Desktop/module_3/md_03/obj/Debug/net8.0/md_03.pdb
+/Users/maxhotiuk/Desktop/module_3/md_03/obj/Debug/net8.0/md_03.genruntimeconfig.cache
+/Users/maxhotiuk/Desktop/module_3/md_03/obj/Debug/net8.0/ref/md_03.dll
